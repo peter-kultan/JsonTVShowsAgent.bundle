@@ -101,9 +101,9 @@
 
    Instalation
    -----------
-   Donwload the [zipped bundle]()
+   1. Donwload the [zipped bundle](https://github.com/peter-kultan/JsonTVShowsAgent.bundle/archive/refs/heads/main.zip)
    2. Extract it
-   3. ranem it to `Doplnit`
+   3. ranem it to `JsonTVShowsAgent.bundle`
    4. Find the [Plex Media data directory](https://support.plex.tv/articles/202915258-where-is-the-plex-media-server-data-directory-located/)
    5. Move the .bundle folder to the Plug-ins directory.
    6. Restart plex server
